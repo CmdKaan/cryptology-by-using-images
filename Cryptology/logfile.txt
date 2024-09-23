@@ -1,0 +1,33 @@
+User: 12312 Date: 20240526_201457 Action: A new login.
+User: 12312 Date: 20240526_201500 Action: An image is chosed Path:  .C:\Users\bkar3\Desktop\bera.png
+User: 12312 Date: 20240526_201517 Action: A message is encrypted.
+User: 12312 Date: 20240526_201522 Action: An image is chosed Path:  .C:\Users\bkar3\IdeaProjects\JavaProjectV2\encrypted_image.png
+User: 12312 Date: 20240526_201526 Action: A message is decrypted.
+User: 12312 Date: 20240526_201621 Action: User Logged off.
+User: Bnix Date: 20240526_201647 Action: A new login.
+User: Bnix Date: 20240526_201649 Action: An image is chosed Path:  .C:\Users\bkar3\Desktop\bera.png
+User: Bnix Date: 20240526_201659 Action: A message is encrypted.
+User: Bnix Date: 20240526_201701 Action: An image is chosed Path:  .C:\Users\bkar3\IdeaProjects\JavaProjectV2\encrypted_image.png
+User: Bnix Date: 20240526_201708 Action: A message is decrypted.
+User: Bnix Date: 20240526_201921 Action: User Logged off.
+User:  Date: 20240526_211542 Action: A failed login (Incorrect Password).
+User:  Date: 20240526_211546 Action: A failed login (Incorrect Password).
+User:  Date: 20240526_211552 Action: A new login.
+User:  Date: 20240526_211603 Action: An image is chosed Path:  .C:\Users\bkar3\Desktop\bera.png
+User:  Date: 20240526_211614 Action: A message is encrypted.
+User:  Date: 20240526_211622 Action: An image is chosed Path:  .C:\Users\bkar3\IdeaProjects\JavaProjectV2\encrypted_image.png
+User:  Date: 20240526_211626 Action: A message is decrypted.
+User:  Date: 20240526_211628 Action: User Logged off.
+User: bnix Date: 20240526_213243 Action: A new login.
+User: bnix Date: 20240526_213246 Action: An image is chosed Path:  .C:\Users\bkar3\Desktop\bera.png
+User: bnix Date: 20240526_213254 Action: A message is encrypted.
+User: bnix Date: 20240526_213255 Action: An image is chosed Path:  .C:\Users\bkar3\IdeaProjects\JavaProjectV2\encrypted_image.png
+User: bnix Date: 20240526_213259 Action: A message is decrypted.
+User: bnix Date: 20240526_213300 Action: User Logged off.
+User: Kaan Date: 20240622_180624 Action: A failed login (Incorrect Password).
+User: Kaan Date: 20240622_180628 Action: A new login.
+User: Kaan Date: 20240622_180714 Action: An image is chosed Path:  .C:\Users\Kaan\Desktop\Java proje dosyalar\Test.png
+User: Kaan Date: 20240622_180757 Action: A message is encrypted.
+User: Kaan Date: 20240622_180816 Action: An image is chosed Path:  .C:\Users\Kaan\Desktop\Java proje dosyalar\JavaProjectV2\encrypted_image.png
+User: Kaan Date: 20240622_180831 Action: A message is decrypted.
+User: Kaan Date: 20240622_180832 Action: User Logged off.
